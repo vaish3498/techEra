@@ -1,0 +1,28 @@
+.list-item {
+  list-style-type: none;
+  padding: 5px;
+  margin: 5px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  margin: 5px;
+}
+
+.image {
+  height: 40px;
+  width: 20px;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.name {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #1e293b;
+  padding: 5px;
+  margin: 5px;
+}
